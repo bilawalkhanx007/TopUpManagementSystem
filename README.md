@@ -1,7 +1,7 @@
-##TopUpManagementSystem
+## TopUpManagementSystem
 Welcome to the TopUpManagementSystem repository! This project is built using .NET Core and follows best practices in software architecture and design. Below you'll find an overview of its features and implementation details.
 
-##Features
+## Features
 Fully Organized and Maintainable Code: The project is meticulously organized and structured for easy maintenance and scalability.
 Entity Framework Core with Repository Pattern: Utilizes Entity Framework Core with a generic repository pattern for data access, promoting code reusability and maintainability.
 Clean Onion Architecture with Domain-Driven Design (DDD): Follows a clean architecture approach with DDD principles, ensuring separation of concerns and business logic encapsulation.
@@ -14,7 +14,7 @@ Dependency Injection for Mapping: Utilizes dependency injection for mapping obje
 Follows SOLID Principles: Adheres to the SOLID principles for writing clean, maintainable, and extensible code.
 
 
-##Getting Started
+## Getting Started
 To get started with the TopUpManagementSystem, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/TopUpManagementSystem.git
@@ -24,7 +24,7 @@ Run the application: dotnet run
 Explore the API documentation using Swagger: https://localhost:{port}/swagger
 
 
-##Contributing
+## Contributing
 We welcome contributions to the TopUpManagementSystem project! To contribute:
 
 Fork the repository.
@@ -34,5 +34,5 @@ Push to the branch: git push origin feature/my-feature
 Submit a pull request.
 
 
-##Acknowledgements
+## Acknowledgements
 Special thanks to all contributors who have helped make this project possible.
